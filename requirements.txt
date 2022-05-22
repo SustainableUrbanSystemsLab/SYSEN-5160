@@ -1,0 +1,6 @@
+geopy 
+pvlib 
+matplotlib 
+numpy 
+timezonefinder 
+cvxpy
