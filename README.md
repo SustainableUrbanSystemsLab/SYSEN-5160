@@ -1,3 +1,6 @@
+[![Check Links](https://github.com/CornellSystemsEngineering/SYSEN-5160/actions/workflows/link-checker.yml/badge.svg)](https://github.com/CornellSystemsEngineering/SYSEN-5160/actions/workflows/link-checker.yml)
+
+
 # Final Projects
 
 ## Spring 2022
