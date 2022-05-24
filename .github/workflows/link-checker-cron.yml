@@ -1,4 +1,4 @@
-name: Links
+name: Check Links (Cron)
 
 on:
   repository_dispatch:

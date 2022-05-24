@@ -1,4 +1,4 @@
-[![Check Links](https://github.com/CornellSystemsEngineering/SYSEN-5160/actions/workflows/link-checker.yml/badge.svg)](https://github.com/CornellSystemsEngineering/SYSEN-5160/actions/workflows/link-checker.yml)
+[![pages-build-deployment](https://github.com/CornellSystemsEngineering/SYSEN-5160/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/CornellSystemsEngineering/SYSEN-5160/actions/workflows/pages/pages-build-deployment) [![Check Links (Cron)](https://github.com/CornellSystemsEngineering/SYSEN-5160/actions/workflows/link-checker-cron.yml/badge.svg)](https://github.com/CornellSystemsEngineering/SYSEN-5160/actions/workflows/link-checker-cron.yml)
 
 # Final Projects
 
